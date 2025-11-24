@@ -1,7 +1,7 @@
 
 # DIO | Resumos
 
-Repositório para Resumos
+Repositório para Resumo
 [Digital Innovation One](https://www.dio.me) .
 
 ## 📕 Documentação
