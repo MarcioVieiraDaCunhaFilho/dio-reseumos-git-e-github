@@ -13,6 +13,8 @@ Repositório para Resumo
 
 | Aulas | Resumos |
 |-------|---------|
+|Aula 01 | [Resumo]()|
+|Aula 02 | [Resumo]()|
 |Gravando Alterações no repo| 
 
 
